@@ -36,4 +36,8 @@ the diagram the way we do?
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
-	-
+	- automatic save time when merging 2 files that changes different part of the files.
+	- automatic conflict when 2 files changing the same location, extra info being inserted into
+	the file in various location to inform user the conflict section.
+	- manual let user decide what's to be merge into the file.
+	- lots of code to read even if the code are not conflict.
