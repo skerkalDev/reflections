@@ -13,16 +13,19 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	-
+	- use git add to add the changes I want to add to the staging area.
+	- use git status to check if the commit is what I want.
+	- use git commit to commit the changes to repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	-
+	- I can keep a different version control without affecting the master branch.
 
 How do the diagrams help you visualize the branch structure?
 
-	-
+	- So that I know where the branch are separating from, and what are those commit
+	that are not included inside branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
