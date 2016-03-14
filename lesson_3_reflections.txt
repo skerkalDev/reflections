@@ -29,3 +29,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	use win merge to compare the changes. Merge them manually and keep another copy of it as updated
 	version.
 	- using github is easier, but svn is even more easy to use.
+	
+	
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	- when I've something that I want to test it out, before any code review.
+	- so that it wouldn't affect the master, which will affects other users.
+	
+	
