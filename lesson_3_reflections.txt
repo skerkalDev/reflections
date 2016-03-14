@@ -21,3 +21,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	- so that we can see if there is any conflict that we need to resolve before we commit 
 	the new merge.
+	
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	- I will need to copy the changes from other collaborator at a separate folder on my machine,
+	use win merge to compare the changes. Merge them manually and keep another copy of it as updated
+	version.
+	- using github is easier, but svn is even more easy to use.
