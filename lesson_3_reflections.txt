@@ -8,3 +8,12 @@ stay up-to-date with your remote repository?
 	
 	- we might not want to get some of the changes on git hub while we working on something locally.
 	
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	- forks: copy other's repository to your own repository if it is set to as public by the owner.
+	- clones: copy repository to your local machine.
+	- branches: copy repository to a new path, allowing you to create, modify or remove things without 
+	affecting the master repository.
+	
+	
